@@ -1,0 +1,37 @@
+body{
+    color: black;
+    font-family: Arial sans-serif;
+    font-size: 20px;
+    /*margin: 0 250px 0 250px; yukarı sağ aşağı sol*/
+    text-shadow: 1px 2px 10px violet;
+    /*text-align: center;*/
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4W9lMgbuDDQeu0yKlQuqKVd2KwCziM05b3SZo92KDG5wWzXOiEQ);
+    background-size: cover;
+}
+.yazi{
+    margin: auto;
+    text-align: justify;
+    width: 600px;
+}
+h1{
+    text-align: center;
+}
+.nasil{
+    img{
+        margin: auto;
+    }
+}
+/*p{
+    font-family: Arial;
+    color: blue
+}
+ul{
+    font-family: Arial;
+    color: crimson;
+}
+
+.nasil{
+    color: purple;  class  çok sefer kullanılabilir
+#oneri{
+    color: chartreuse; id bir sefer kullanılır
+}*/
